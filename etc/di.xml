@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Developer: Hemant Singh Magento 2x Developer
+ * Category:  Wishusucess_ProductImagesUrl Get Product Image URL Using REST API
+ * Website:   http://www.wishusucess.com/
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/ObjectManager/etc/config.xsd">
+   <preference for="Wishusucess\ProductImagesUrl\Api\GetProductImage" type="Wishusucess\ProductImagesUrl\Model\GetProductImageUrl" />
+</config>
